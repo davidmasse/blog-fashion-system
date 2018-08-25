@@ -21,9 +21,9 @@ Back in 2010, the emphasis was more on specific designers (Nicolas Ghesquière a
 
 The few items from 2018 that indicate concrete trends in a trendless market seem to be “dresses,” “leather,” “jackets,” “coats,” “white” and “black.” Reference to particular decades (“sixties”) seem to be out of fashion. Neutrals have sharpened up but still have the edge against color — unless this is a cyclical phenomenon, which could be investigated by expanding the data set. Finally, my own two cents: I would anticipate a swing, already underway at some houses, back to aesthetics and craft.
 
-![](top20.png)
+![](20_most_informative_words.png)
 
-![](21to45.png)
+![](21_to_45_most_informative_words.png)
 
 ``` python
 bow = CountVectorizer(stop_words = ‘english’, preprocessor = clean_article, tokenizer = TweetTokenizer().tokenize,
