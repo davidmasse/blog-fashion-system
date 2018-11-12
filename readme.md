@@ -1,6 +1,6 @@
 ## Anything But Natural: Barthes and NLP
 
-Here’s Roland Barthes in The Fashion System (Système de la mode, 1967):
+Here’s Roland Barthes in *The Fashion System* (*Système de la mode*, 1967):
 
 “In order to blunt the buyer’s calculating consciousness, a veil must be drawn around the object [i.e. the clothes] — a veil of images, of reasons, of meanings … it is not the object but the name that creates desire … if the magazine describes a certain article of clothing verbally, it does solely to convey a message whose content is: Fashion.”
 
