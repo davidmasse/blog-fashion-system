@@ -1,5 +1,3 @@
-[Link to blog post](https://medium.com/@idontneedtoseethat/anything-but-natural-barthes-and-nlp-42573db5a5ff)
-
 ## Anything But Natural: Barthes and NLP
 
 Here’s Roland Barthes in The Fashion System (Système de la mode, 1967):
